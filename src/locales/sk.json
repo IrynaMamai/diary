@@ -1,0 +1,26 @@
+{
+    "translation": {
+        "~ DIARY ~": "~ DENNIK ~",
+        "Please try again": "Prosím skúste znova",
+
+        "~ settings ~": "~ nastavenia ~",
+        "Settings theme": "Zmeniť tému",
+        "Ligth": "Svetla",
+        "Dark": "Temna",
+        "Yellow": "Žlta",
+        "Settings language": "Zmeniť  jazyk",
+        "English": "Anglicky",
+        "Slovak": "Slovensky",
+        "Russian": "Rusky",
+        "Send to server": "Poslať na server",
+        "Operation successful": "Prevádzka úspešná",
+
+        "~ add note ~": "~ pridať ~",
+        "Done": "Uložiť",
+        "Add URL here": "Sem vložte URL",
+        "No network connection. Check connection": "Žiadne sieťové pripojenie. Skontrolujte pripojenie",
+        "Title": "Názov",
+        "Description": "Popis"
+
+    }
+  }

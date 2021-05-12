@@ -1,0 +1,25 @@
+{
+    "translation": {
+        "~ DIARY ~": "~ДНЕВНИК~",
+        "Please try again": "Пожалуйста, попробуйте еще раз",
+
+        "~ settings ~": "~ настройки  ~",
+        "Settings theme": "Сменить тему",
+        "Ligth": "Светлая",
+        "Dark": "Темная",
+        "Yellow": "Желтая",
+        "Settings language": "Изменить язык",
+        "English": "Английский",
+        "Slovak": "Словацкий",
+        "Russian": "Русский",
+        "Send to server": "Отправить на сервер ",
+        "Operation successful": "Операция успешна",
+
+        "~ add note ~": "~ добавить ~",
+        "Done": "Готово",
+        "Add URL here": "Введите URL",
+        "No network connection. Check connection": "Нет сетевого подключения. Проверте подключение",
+        "Title": "Название",
+        "Description": "Описание"
+    }
+  }
